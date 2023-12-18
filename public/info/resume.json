@@ -1,0 +1,116 @@
+{
+  "download_url": "https://drive.google.com/file/d/1b4vEgQVu15lY-5XvKbB6lXvm6Xzs4dGR/view?usp=sharing",
+  "education": [
+    {
+      "institute": "University of Colorado, Boulder",
+      "url": "https://polytechnic.purdue.edu/degrees/ms-computer-graphics-technology/ux-design",
+      "title": "M.S UX Design",
+      "duration": "2021 - Present",
+      "body1": "CGPA: 3.98/4.00",
+      "body2": "Key Coursework: Design Theory, Qualitative Research Methods, Cognition & HCI, User Experience Studio"
+    },
+    {
+      "institute": "Lahore University of Management Sciences",
+      "url": "https://lums.edu.pk/",
+      "title": "B.S Computer Science",
+      "duration": "2016 - 2020",
+      "body1": "CGPA: 3.74 / 4.00",
+      "body2": "Key Coursework: Human-Computer Interaction, Software Engineering, Network-Centric Computing, Computer Vision, Deep Learning"
+    }
+  ],
+  "experience": [
+    {
+      "organization": "SGX3/Purdue University",
+      "url": "https://sciencegateways.org/",
+      "location": "West Lafayette, IN, USA",
+      "positions": [
+        {
+          "title": "User Experience Consultant",
+          "duration": "August 2022 - Present",
+          "body": "• Lead UX consultant for Science Gateways Community Institute projects undertaken at the DVC Lab (https://www.dvclab.net/). \n• Responsibilities include creating project plans, deliverables and timelines, conducting UX research to aid science gateway development and design. "
+        }
+      ]
+    },
+    {
+      "organization": "OneSignal",
+      "url": "https://onesignal.com/",
+      "location": "San Mateo, CA, USA",
+      "positions": [
+        {
+          "title": "Design Engineer Intern",
+          "duration": "May 2022 - August 2022",
+          "body": "• Designed and implemented responsiveness for the OneSignal dashboard and website. \n• Created reusable and extendable Figma components for OneSignal’s Journey’s feature. \n• Updated previews for latest MacOS notifications on desktop."
+        }
+      ]
+    },
+    {
+      "organization": "Purdue University",
+      "url": "https://polytechnic.purdue.edu/degrees/ms-computer-graphics-technology/ux-design",
+      "location": "West Lafayette, IN, USA",
+      "positions": [
+        {
+          "title": "Graduate Teaching Assistant",
+          "duration": "August 2021 - May 2022",
+          "body": "• Lecturing students on basic web development with HTML, CSS and Javascript. \n• Mentoring student course projects. \n • Supervising and grading lab assignments."
+        }
+      ]
+    },
+    {
+      "organization": "Educative",
+      "url": "https://educative.io",
+      "location": "Lahore, Pakistan",
+      "positions": [
+        {
+          "title": "Full-Stack Software Engineer",
+          "duration": "June 2020 - July 2021",
+          "body": "• Led effort to boost Google Lighthouse scores to 90+ for non-paywalled pages on Educative.io for increased SEO, performance and UX. \n• Implemented a custom caching mechanism through Cloudflare to decrease page load times and boost site UX. Resulted in 75% requests to be served from the cache in May 2021. \n• Worked in the technical design team to migrate the legacy design system to a modern framework (Tailwindcss). Implemented dark mode (most requested feature) which was possible due to migration.\n • Mentoring new-hires through the developer bootcamp. Revamped bootcamp documentation to reflect latest practices and ensure fluid onboarding."
+        },
+        {
+          "title": "Technical Content Engineer",
+          "duration": "June 2019 - May 2020",
+          "body": "Created 150+ interactive articles on various computer science concepts, algorithms, frameworks, libraries and technologies for Educative Answers."
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "JavaScript", "TypeScript", "C/C++"],
+    "frameworks_and_libraries": [
+      "React",
+      "React Native",
+      "Next JS",
+      "Flask",
+      "Jest",
+      "Selenium",
+      "OpenCV",
+      "Pandas",
+      "Keras"
+    ],
+    "databases": ["Firestore", "MongoDB", "Google Cloud Datastore"],
+    "misc": ["Git", "Jira", "Asana", "Miro", "Jupyter Notebooks"],
+    "ui_ux": [
+      "UX Research",
+      "Contextual Inquiry",
+      "Interviewing",
+      "Prototyping",
+      "Wireframing",
+      "Figma",
+      "Usability Testing",
+      "Qualitative Research"
+    ]
+  },
+  "interests": [
+    "Football (soccer)",
+    "MMA",
+    "Tennis",
+    "Cricket",
+    "Swimming",
+    "Gaming"
+  ],
+  "awards": [
+    "LUMS Dean's Honor List 2016, 2017, 2019",
+    "LUMS Undergraduate Award of Distinction",
+    "A-Level High Achiever Medal",
+    "O-Level High Achiever Medal"
+  ]
+}
